@@ -116,7 +116,7 @@ body {
   line-height: 2.25rem;
   margin: 0px 0px 15px 0px;
   padding: 0px 0px 0px 35px;
-  background: url("../../img/icons/check.png") 1px 6px no-repeat;
+  background: url("../img/icons/check.png") 1px 6px no-repeat;
 }
 
 .product__item:last-child {
@@ -561,19 +561,19 @@ body {
 }
 
 .skype {
-  background: url("../../img/icons/skype-icon.png") 0 2.5px/25px no-repeat;
+  background: url("../img/icons/skype-icon.png") 0 2.5px/25px no-repeat;
 }
 
 .icq {
-  background: url("../../img/icons/icq-icon.png") 0 2.5px/25px no-repeat;
+  background: url("../img/icons/icq-icon.png") 0 2.5px/25px no-repeat;
 }
 
 .email {
-  background: url("../../img/icons/email-icon.png") 0 2.5px/25px no-repeat;
+  background: url("../img/icons/email-icon.png") 0 2.5px/25px no-repeat;
 }
 
 .tel {
-  background: url("../../img/icons/phone-icon.png") 0 2.5px/25px no-repeat;
+  background: url("../img/icons/phone-icon.png") 0 2.5px/25px no-repeat;
 }
 
 .footer {
